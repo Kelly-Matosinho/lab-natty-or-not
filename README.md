@@ -1,5 +1,5 @@
 ```markdown
-# Harry Prompt e o Cálculo das Repostas Extremamente Aesthetic ;)
+# Harry Prompt e o Cálculo das Repostas
 
 ## 📒 Descrição
 Esse Podcast oferece uma jornada cheia de surpresas e descobertas no mundo dos prompts e da IA.
