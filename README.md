@@ -15,7 +15,7 @@ Software CapCut para edição e montagem do podcast.
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo dos prompts de IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-Link para Podcast: (https://github.com/Kelly-Matosinho/lab-natty-or-not/blob/6059e2226f52075213a12ed8908aa0a82deb2373/Natural%20ou%20Fake%20PODCAST.MP3)
+Link para Podcast: (https://github.com/Kelly-Matosinho/lab-natty-or-not/blob/ef8dead8ebe0aab732b3993e10b0777d0447781b/exemplos/Natural%20ou%20Fake%20PODCAST.MP3)
 
 ## 💭 Reflexão (Opcional)
 Esse foi meu primeiro projeto onde pude aprender na pratica sobre como usar IAs Generativas na criação de conteúdo digital
